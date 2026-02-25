@@ -43,7 +43,7 @@ The project aims to answer the following business-focused questions:
 
 ## Project Workflow
 
-![FlowChart](Flow.png)
+![FlowChart](/Project/Flow.png)
 
 ---
 
@@ -97,7 +97,7 @@ This structured approach ensured reliable and meaningful analytical outputs.
 
 ## 📈 Insight Framework Diagram
 
-![Insight Framework Diagram](InsightFramework.png)
+![Insight Framework Diagram](/Project/InsightFramework.png)
 
 ---
 
